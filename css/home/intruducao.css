@@ -27,10 +27,7 @@
 
 .introducao h1 {
     margin-bottom: 32px;
-    font-size: 64px;
-    list-style: 1.125;
-    font-family: 'Poppins';
-    font-weight: 600;
+    
 }
 
 .introducao h1 span {
@@ -39,11 +36,8 @@
 
 .introducao p {
     margin-bottom: 20px;
-    font-size: 24px;
-    line-height: 1.5;
     color: #b2b2b2;
-    font-family: 'Roboto';
-    font-weight: 400;
+    
 }
 
 
